@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209895689569",
+    "project_id": "quickstartapps-9b6d1",
+    "storage_bucket": "quickstartapps-9b6d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209895689569:android:ea9a4c3beb18710a310920",
+        "android_client_info": {
+          "package_name": "com.example.quickstartappstask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209895689569-suvjrv2kaq3kbttnoik94h3ablf0hdpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKx9XVQRs2N6KitcVfwPWmocMbK3mc_XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209895689569-suvjrv2kaq3kbttnoik94h3ablf0hdpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
